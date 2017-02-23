@@ -1,0 +1,10 @@
+inherit kf5
+
+NAME="plasma-sdk"
+VERSION=5.8.5
+RELEASE=1
+CATEGORY="Devel"
+SUMMARY="KDE Plasma development tools"
+DESCRIPTION="Assorted tools for artists and developers of KDE Plasma applets."
+
+REQUIRES="kf5-kirigami"
